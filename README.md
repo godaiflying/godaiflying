@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @godaiflying
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Programming
 - 💞️ I’m looking to work
 - 📫 How to reach me on discord 
 
